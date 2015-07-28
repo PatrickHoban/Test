@@ -72,3 +72,63 @@ touch readme.md
 cd test
 cd Test
 touch README.md
+cd README.md
+cd Test
+nano READMEmd
+git push origin master
+cd 
+git commit -m "first commit"
+git status
+git commit
+hit commit ".bash_history"
+git commit ".bash_history"
+git commit -m ".bash_history"
+git commit -m "untracked files"
+git add .bash_history
+git status
+git add .bash_logout
+git add .bashrc
+git add .config/
+git add .gitconfig
+git add .profile
+Test/
+git add Test
+git add Test/
+Web/
+git add Web/
+git add myFolder/
+git status
+git commit
+git commit .bash_history
+echo # Good_s
+echo # Good_Stuff >> README.md
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/PatrickHoban/Good_Stuff.git
+git push -u origin master
+git status
+git add .bash_history
+git add .config/koding/klient.bolt
+git status
+git commit ".bash_history
+git commit ".bash_history"
+
+k
+
+
+
+
+
+
+
+
+
+
+
+
+git status
+git add .bash_history
+.config/koding/klient.bolt
+git add .config/koding/klient.bolt
+git status
+git commit ".bash_history"
